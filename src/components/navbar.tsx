@@ -9,7 +9,7 @@ export function Navbar() {
             <div className="container flex h-[4rem] max-w-screen-2xl items-center">
                 <div className="mr-6 flex items-center space-x-2">
                     <Link href="/">
-                        <h1 className="font-bold">brand</h1>
+                        <h1 className="font-bold">CashyBuddy</h1>
                     </Link>
                 </div>
                 <div className="flex flex-row items-center space-x-4">
