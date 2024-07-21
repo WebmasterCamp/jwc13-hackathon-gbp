@@ -150,7 +150,7 @@ export function QuestionForm() {
                         <Chart1 />
                         <Chart2 />
                     </div>
-                    <Link href="/">
+                    <Link href="/question/submitted">
                         <Button type="submit">Submit</Button>
                     </Link>
                 </form>

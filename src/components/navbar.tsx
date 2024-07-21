@@ -13,11 +13,10 @@ export function Navbar() {
                     </Link>
                 </div>
                 <div className="flex flex-1 items-center justify-end space-x-10">
-                    <Link href="#">ABOUT US</Link>
-                    <Link href="#">FAQ</Link>
-                    <Button><Link href="/question">LOGIN</Link></Button>
+                    <Link href="/mbti">Cashy</Link>
+                    <Button><Link href="/question">Start</Link></Button>
                 </div>
-            
+
             </div>
         </header>
     );

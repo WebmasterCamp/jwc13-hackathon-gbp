@@ -18,7 +18,7 @@ export default function Page() {
             <p className="mt-2">“คู่หูรู้ใจไฟแนนซ์วัยทีน”</p>
           </div>
         </div>
-        <div className="mt-10 bg-slate-50 p-4 m-2 text-xl">
+        <div className="mt-10 bg-green-300 p-4 m-2 text-xl">
           <h1>เกี่ยวกับเรา</h1>
         </div>
         <div className="flex flex-row mt-4 space-x-6">
@@ -36,7 +36,7 @@ export default function Page() {
             </p>
           </div>
         </div>
-        <div className="bg-slate-50 p-4">
+        <div className="bg-green-300 p-4">
           <h1>FAQ</h1>
         </div>
         <div className="flex flex-col space-y-8 mt-4 ">
