@@ -12,17 +12,12 @@ export function Navbar() {
                         <h1 className="font-bold">CashyBuddy</h1>
                     </Link>
                 </div>
-                <div className="flex flex-row items-center space-x-4">
-                    <Link href="/faq">วิธีใช้</Link>
-                    <Link href="/management">วางแผนการเงิน</Link>
-                    <Link href="/about">เกี่ยวกับเรา</Link>
+                <div className="flex flex-1 items-center justify-end space-x-10">
+                    <Link href="#">ABOUT US</Link>
+                    <Link href="#">FAQ</Link>
+                    <Button><Link href="/question">LOGIN</Link></Button>
                 </div>
-                <div className="flex flex-1 items-center justify-end space-x-2">
-                    <Link href="/signin">
-                        <Button variant="default">เข้าสู่ระบบ</Button>
-                    </Link>
-                    <ThemeToggle />
-                </div>
+            
             </div>
         </header>
     );
