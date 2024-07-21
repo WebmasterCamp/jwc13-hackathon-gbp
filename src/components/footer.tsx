@@ -1,8 +1,8 @@
 
 export function Footer (){
     return(
-        <div>
-          <div className="flex flex-row">
+        <div className="flex flex-row">
+          <div >
             <p>Gmail</p>
           </div>
           <div>
