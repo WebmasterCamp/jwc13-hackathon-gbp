@@ -63,7 +63,7 @@ export default function Page() {
           <div className="bg-green-300">
             <Accordion type="single" collapsible className="p-2">
               <AccordionItem value="item-3">
-                <AccordionTrigger>Click to open ?</AccordionTrigger>
+                <AccordionTrigger>มีค่าใช้จ่ายในการบริการมั้ย ?</AccordionTrigger>
                 <AccordionContent>
                 เหมาะกับเพื่อน ๆ วัยมัธยมศึกษาที่มีปัญหาการบริหารจัดการเงินรายรับที่ได้จากผู้ปกครองที่ได้รับมาในแต่ละเดือน เช่น วางแผนสัดส่วนค่าใช้จ่ายไม่เป็น ไม่สามารถใช้จ่ายเงินตามที่ได้รับในแต่ละเดือนได้ 
                 </AccordionContent>

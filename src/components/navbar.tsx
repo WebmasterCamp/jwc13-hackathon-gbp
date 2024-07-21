@@ -13,9 +13,9 @@ export function Navbar() {
                     </Link>
                 </div>
                 <div className="flex flex-1 items-center justify-end space-x-10">
-                    <Link href="/faq">ABOUT US</Link>
-                    <Link href="/management">FAQ</Link>
-                    <Button><Link href="/about">LOGIN</Link></Button>
+                    <Link href="#">ABOUT US</Link>
+                    <Link href="#">FAQ</Link>
+                    <Button><Link href="/question">LOGIN</Link></Button>
                 </div>
             
             </div>
